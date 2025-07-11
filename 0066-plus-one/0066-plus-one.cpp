@@ -5,13 +5,12 @@ public:
 
     for (int i = n - 1; i >= 0; --i) {
         if (digits[i] < 9) {
-            digits[i]++;  // Just add one and return
+            digits[i]++;  
             return digits;
         }
-        digits[i] = 0;  // Set to 0 and continue loop to handle carry
+        digits[i] = 0; 
     }
 
-    // If we reach here, all digits were 9, so we need extra space
     digits.insert(digits.begin(), 1);
     return digits;
     }
