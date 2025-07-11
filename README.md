@@ -32,5 +32,10 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Basmallaaa/test4/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Basmallaaa/test4/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Basmallaaa/test4/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
