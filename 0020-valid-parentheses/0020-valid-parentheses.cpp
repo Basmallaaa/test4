@@ -21,9 +21,5 @@ public:
 
     return st.empty();
     }
-    int main() {
-     string s = "([])";
-    cout << (isValid(s) ? "true" : "false") << endl;  // Output: true
-    return 0;
-    }
+    
 };
