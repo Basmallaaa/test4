@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Basmallaaa/test4/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Basmallaaa/test4/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Basmallaaa/test4/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Basmallaaa/test4/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
