@@ -9,7 +9,7 @@ public:
     int n = s.size();
 
     for (int i = 0; i < n; i++) {
-        // لو القيمة الحالية أقل من اللي بعدها يبقى نطرحها
+     
         if (i + 1 < n && values[s[i]] < values[s[i + 1]]) {
             total -= values[s[i]];
         } else {
